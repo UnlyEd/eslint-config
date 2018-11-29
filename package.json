@@ -1,0 +1,26 @@
+{
+  "name": "@unly/eslint-config-node",
+  "version": "1.0.0",
+  "description": "ESLint base configuration for node.js projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnlyEd/eslint-config-node.git"
+  },
+  "keywords": [
+    "lint",
+    "rules",
+    "eslint"
+  ],
+  "author": "Unly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnlyEd/eslint-config-node/issues"
+  },
+  "homepage": "https://github.com/UnlyEd/eslint-config-node#readme",
+  "devDependencies": {
+    "eslint": "5.9.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-plugin-import": "2.14.0"
+  }
+}
