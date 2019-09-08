@@ -1,6 +1,7 @@
 # eslint-config
 
 > ESLint base configuration for projects @Unly
+>
 > Each language/environment has its own folder/config
 
 # How to use
